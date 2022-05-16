@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 40px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.label {
+  color: #ffe300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 63px;
+  text-shadow: -1px -1px 0 rgb(0 0 0 / 30%);
+  font-weight: 500;
+
+  margin-bottom: 30px;
+}
+
+.crawl {
+  font-family: inherit;
+  color: #ffe300;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
